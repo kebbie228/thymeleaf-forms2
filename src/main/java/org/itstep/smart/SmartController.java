@@ -56,7 +56,7 @@ Smart newSmart = smartService.save(smart);
         smartService.deleteById(id);
         return "redirect:/smarts";
     }
-/*
+/* fg
     @GetMapping(value = "/os_update")
     public String firmGetUpdate(Model model, @RequestParam(name = "id") Long id) {
         Os oldOs = osService.findById(id);
