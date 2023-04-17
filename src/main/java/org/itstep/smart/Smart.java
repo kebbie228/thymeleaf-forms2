@@ -1,4 +1,4 @@
-package smart;
+package org.itstep.smart;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

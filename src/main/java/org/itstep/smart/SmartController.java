@@ -1,6 +1,5 @@
-package smart;
+package org.itstep.smart;
 
-import org.itstep.firm.Firm;
 import org.itstep.firm.FirmService;
 import org.itstep.os.Os;
 import org.itstep.os.OsService;
@@ -11,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 
 import javax.servlet.http.HttpServletResponse;
 
-
+/*
 @Controller
 public class SmartController {
     @Autowired
@@ -71,3 +70,6 @@ public class SmartController {
     }
 }
 
+
+
+ */

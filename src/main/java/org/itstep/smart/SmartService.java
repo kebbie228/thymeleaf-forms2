@@ -1,7 +1,5 @@
-package smart;
+package org.itstep.smart;
 
-import org.itstep.os.Os;
-import org.itstep.os.OsRepo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

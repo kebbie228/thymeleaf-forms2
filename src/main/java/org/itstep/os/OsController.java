@@ -41,7 +41,7 @@ import javax.servlet.http.HttpServletResponse;
         @DeleteMapping(value = "/os_delete")
         public String smartDelete(@RequestParam(name = "id") Long id) {
             osService.deleteById(id);
-            return "redirect:/os";
+            return "redirect:/oss";
         }
 
         @GetMapping(value = "/os_update")
